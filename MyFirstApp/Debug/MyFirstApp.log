@@ -1,0 +1,2 @@
+﻿MyFirstApp.obj : error LNK2005: _main déjà défini(e) dans Essai.obj
+C:\Cours\ArtFx\Gaetan\Visual Studio\MyFirstApp\Debug\MyFirstApp.exe : fatal error LNK1169: un ou plusieurs symboles définis à différentes reprises ont été rencontrés

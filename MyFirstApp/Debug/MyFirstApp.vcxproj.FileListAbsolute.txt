@@ -1,0 +1,2 @@
+C:\Cours\ArtFx\Gaetan\Visual Studio\MyFirstApp\Debug\MyFirstApp.exe
+C:\Cours\ArtFx\Gaetan\Visual Studio\MyFirstApp\Debug\MyFirstApp.pdb
